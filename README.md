@@ -66,3 +66,4 @@ Boshlang'ich tarjimalar: `server/seed/en.json`, `ru.json`, `uz.json`.
 - Sarlavhalarda `*so'z*` yozilsa, u yashil rangda ajraladi
 
 Yangi maydon qo'shish: `client/src/admin/schema.js` ga yozing va tegishli sayt komponentida ishlating.
+# sayt
