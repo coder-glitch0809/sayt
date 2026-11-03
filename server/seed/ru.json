@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "title": "Аббосбек Махмудов — Performance Media Buyer",
+    "description": "Таргетолог Meta Ads: лиды дешевле $1, окупаемость до 25×. 3+ года, 30+ проектов, $50K+ рекламного бюджета под управлением."
+  },
+  "nav": {
+    "initials": "AM",
+    "name": "Аббосбек Махмудов",
+    "links": [
+      {
+        "label": "Кейсы",
+        "href": "#cases"
+      },
+      {
+        "label": "Результаты",
+        "href": "#proof"
+      },
+      {
+        "label": "Клиенты",
+        "href": "#brands"
+      },
+      {
+        "label": "Процесс",
+        "href": "#process"
+      }
+    ],
+    "ctaLabel": "Нанять",
+    "ctaHref": "#contact"
+  },
+  "hero": {
+    "eyebrow": "Performance Media Buyer · Meta Ads",
+    "line1": "Лиды дешевле $1.",
+    "line2": "Окупаемость до 25×.",
+    "lede": "Запускаю рекламу в Facebook и Instagram, которая наполняет воронку продаж школ, турагентств и сервисных бизнесов.",
+    "ledeStrong": "3+ года, 30+ проектов, $50K+ рекламного бюджета.",
+    "primaryLabel": "Смотреть результаты →",
+    "primaryHref": "#cases",
+    "secondaryLabel": "Связаться",
+    "secondaryHref": "#contact",
+    "meta": [
+      "Открыт к удалённой работе",
+      "США и Европа",
+      "GMT+5"
+    ],
+    "portrait": "/uploads/portrait.jpg",
+    "portraitAlt": "Портрет Аббосбека Махмудова в сером костюме",
+    "readoutTitle": "Lead test 08.10 B",
+    "readoutTag": "Travel Study",
+    "readout": [
+      {
+        "value": "667",
+        "label": "Лидов"
+      },
+      {
+        "value": "$0.49",
+        "label": "За лид"
+      },
+      {
+        "value": "$325.04",
+        "label": "Потрачено"
+      }
+    ]
+  },
+  "ticker": [
+    "Обучение за рубежом",
+    "Частные школы",
+    "Паломнические туры",
+    "Бизнес-коучинг",
+    "Учебные центры",
+    "Локальные услуги"
+  ],
+  "stats": {
+    "eyebrow": "Опыт",
+    "title": "Цифры из живых рекламных кабинетов",
+    "items": [
+      {
+        "value": "3+",
+        "label": "года работы с Meta Ads",
+        "highlight": false
+      },
+      {
+        "value": "30+",
+        "label": "реализованных проектов",
+        "highlight": false
+      },
+      {
+        "value": "$50K+",
+        "label": "рекламного бюджета",
+        "highlight": true
+      },
+      {
+        "value": "13",
+        "label": "кабинетов в работе сейчас",
+        "highlight": false
+      },
+      {
+        "value": "15–25×",
+        "label": "ROAS у ключевых клиентов",
+        "highlight": true
+      },
+      {
+        "value": "$0.40",
+        "label": "минимальная средняя цена лида",
+        "highlight": false
+      }
+    ]
+  },
+  "cases": {
+    "eyebrow": "Кейсы",
+    "title": "Три кабинета, один подход",
+    "subtitle": "Кабинеты, которые я веду в команде Target Expert Group: низкая цена лида, быстрые тесты креативов и бюджет, который идёт за выручкой.",
+    "items": [
+      {
+        "category": "Образование · Обучение за рубежом",
+        "name": "Travel Study",
+        "bullets": [
+          "Лид-формы в Facebook и Instagram",
+          "Постоянное A/B-тестирование хуков и креативов",
+          "Отдельные воронки для дней открытых дверей и отдела продаж",
+          "Лучшая кампания: 667 лидов по $0.49"
+        ],
+        "roas": "15–25×",
+        "roasLabel": "Окупаемость рекламы",
+        "kv": [
+          {
+            "value": "$2,000",
+            "label": "Бюджет в месяц"
+          },
+          {
+            "value": "$0.60",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "≈3,300",
+            "label": "Лидов в месяц"
+          },
+          {
+            "value": "$30–50K",
+            "label": "Выручка в месяц"
+          }
+        ]
+      },
+      {
+        "category": "Туризм · Паломнические туры",
+        "name": "Tur Umra",
+        "bullets": [
+          "Лид-формы для туров Умра в Медину",
+          "Таргетинг по городам вылета: Термез и Самарканд",
+          "Быстрое перераспределение бюджета на лучшие креативы",
+          "Лучшая кампания: 436 лидов по $0.33"
+        ],
+        "roas": "20×",
+        "roasLabel": "Окупаемость рекламы",
+        "kv": [
+          {
+            "value": "$500",
+            "label": "Бюджет в месяц"
+          },
+          {
+            "value": "$0.40",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "≈1,250",
+            "label": "Лидов в месяц"
+          },
+          {
+            "value": "$10K",
+            "label": "Выручка в месяц"
+          }
+        ]
+      },
+      {
+        "category": "Сеть частных школ",
+        "name": "Ideal School",
+        "bullets": [
+          "Отдельный кабинет и бюджет для каждого филиала",
+          "Локальный таргетинг вокруг каждого кампуса",
+          "A/B-тесты видео с учителями, родителями и блогерами",
+          "Масштабирование бюджета в сезон набора"
+        ],
+        "roas": "25×",
+        "roasLabel": "Окупаемость рекламы",
+        "kv": [
+          {
+            "value": "$20,000",
+            "label": "Бюджет за сезон"
+          },
+          {
+            "value": "$1.50",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "≈13,300",
+            "label": "Лидов за сезон"
+          },
+          {
+            "value": "$500K",
+            "label": "Выручка за сезон"
+          }
+        ]
+      }
+    ]
+  },
+  "chart": {
+    "eyebrow": "Возврат на доллар",
+    "title": "Сколько принёс $1 рекламы",
+    "max": 25,
+    "note": "Выручка со слов клиента, делённая на рекламный бюджет. Штриховка у Travel Study — месячный диапазон.",
+    "items": [
+      {
+        "name": "Ideal School",
+        "sub": "Частные школы",
+        "value": 25,
+        "rangeTo": 0,
+        "display": "$25"
+      },
+      {
+        "name": "Tur Umra",
+        "sub": "Паломнические туры",
+        "value": 20,
+        "rangeTo": 0,
+        "display": "$20"
+      },
+      {
+        "name": "Travel Study",
+        "sub": "Обучение за рубежом",
+        "value": 15,
+        "rangeTo": 25,
+        "display": "$15–25"
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "Доказательства",
+    "title": "Лучшие кампании прямо из Ads Manager",
+    "subtitle": "Самые результативные кампании в пяти моих кабинетах:",
+    "subtitleStrong": "3 685 лидов за $2 583, в среднем $0.70 за лид.",
+    "accounts": [
+      {
+        "name": "Travel Study",
+        "caption": "Ads Manager · Travel Study · за всё время",
+        "image": "/uploads/proof-travel.png",
+        "alt": "Таблица Ads Manager для Travel Study: пять лид-кампаний, от 165 до 667 лидов по $0.49–0.68",
+        "summary": [
+          {
+            "value": "1,709",
+            "label": "Лидов"
+          },
+          {
+            "value": "$0.58",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "$998",
+            "label": "Потрачено"
+          },
+          {
+            "value": "$0.49",
+            "label": "Лучший CPL"
+          }
+        ]
+      },
+      {
+        "name": "Tur Umra",
+        "caption": "Ads Manager · Tur Umra · за всё время",
+        "image": "/uploads/proof-umra.png",
+        "alt": "Таблица Ads Manager для Tur Umra: четыре лид-кампании по $0.31–0.45, лучшая — 436 лидов",
+        "summary": [
+          {
+            "value": "673",
+            "label": "Лидов"
+          },
+          {
+            "value": "$0.34",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "$228",
+            "label": "Потрачено"
+          },
+          {
+            "value": "$0.31",
+            "label": "Лучший CPL"
+          }
+        ]
+      },
+      {
+        "name": "Qalqon Sport",
+        "caption": "Ads Manager · Qalqon Sport · последние 14 дней",
+        "image": "/uploads/proof-qalqon.png",
+        "alt": "Таблица Ads Manager для Qalqon Sport: три лид-кампании по $0.50–0.75, лучшая — 253 лида",
+        "summary": [
+          {
+            "value": "371",
+            "label": "Лидов"
+          },
+          {
+            "value": "$0.59",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "$219",
+            "label": "Потрачено"
+          },
+          {
+            "value": "$0.50",
+            "label": "Лучший CPL"
+          }
+        ]
+      },
+      {
+        "name": "Luxway",
+        "caption": "Ads Manager · Luxway · за всё время",
+        "image": "/uploads/proof-luxway.png",
+        "alt": "Таблица Ads Manager для Luxway: три лид-кампании по $0.81–1.04, лучшая — 394 лида",
+        "summary": [
+          {
+            "value": "593",
+            "label": "Лидов"
+          },
+          {
+            "value": "$0.88",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "$523",
+            "label": "Потрачено"
+          },
+          {
+            "value": "$0.81",
+            "label": "Лучший CPL"
+          }
+        ]
+      },
+      {
+        "name": "Ideal School",
+        "caption": "Ads Manager · Ideal School · за всё время",
+        "image": "/uploads/proof-ideal.png",
+        "alt": "Таблица Ads Manager для Ideal School: три лид-кампании по $1.35–2.58, охват 340 000 человек",
+        "summary": [
+          {
+            "value": "339",
+            "label": "Лидов"
+          },
+          {
+            "value": "$1.81",
+            "label": "Средняя цена лида"
+          },
+          {
+            "value": "340K",
+            "label": "Охват"
+          },
+          {
+            "value": "$1.35",
+            "label": "Лучший CPL"
+          }
+        ]
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Процесс",
+    "title": "Как я веду кабинет",
+    "steps": [
+      {
+        "title": "Анализ",
+        "text": "Аудитория, оффер и реклама конкурентов — до того, как потрачен первый доллар."
+      },
+      {
+        "title": "Тесты",
+        "text": "Несколько хуков и креативов в A/B-тестах. Слабые отключаются за пару дней."
+      },
+      {
+        "title": "Конверсия",
+        "text": "Лид-формы, боты в Instagram Direct и amoCRM — ни один лид не остынет."
+      },
+      {
+        "title": "Масштаб",
+        "text": "Бюджет идёт за победителями, с понятными отчётами по затратам и выручке."
+      }
+    ]
+  },
+  "tools": {
+    "eyebrow": "Инструменты",
+    "title": "С чем я работаю каждый день",
+    "groups": [
+      {
+        "title": "Реклама",
+        "chips": [
+          "Meta Ads Manager",
+          "Facebook",
+          "Instagram",
+          "Бизнес-портфолио",
+          "Meta Pixel",
+          "Лид-кампании",
+          "Кампании на трафик",
+          "Гео-таргетинг"
+        ]
+      },
+      {
+        "title": "Воронка и CRM",
+        "chips": [
+          "Лид-формы",
+          "DM-боты ChatPlace",
+          "amoCRM",
+          "Лид-магниты в Telegram"
+        ]
+      },
+      {
+        "title": "Как я работаю",
+        "chips": [
+          "A/B-тесты креативов",
+          "13 кабинетов одновременно",
+          "Участник команды из 3 человек",
+          "Английский (письменный)",
+          "Узбекский (родной)"
+        ]
+      }
+    ]
+  },
+  "brands": {
+    "eyebrow": "Клиенты",
+    "count": "31",
+    "title": "бренд в Business Manager нашей команды",
+    "subtitle": "Частные школы, стоматологии, мебельщики, юристы, магазины, риелторы и коучи по всему Узбекистану.",
+    "laneA": [
+      "Travel Study",
+      "Tur Umra",
+      "Al Kamal School",
+      "Amor Store",
+      "Beshariq Ideal Odob-Ilm",
+      "Davr Stom",
+      "Dezinfeksiya",
+      "Dlim Mebel",
+      "Doctor Nazokat",
+      "Furqat Ideal School",
+      "Gamefit Pro",
+      "Gazon Xizmati",
+      "Gold Building",
+      "Grand Gold Mebellar",
+      "I and US Dental Clinic",
+      "Ideal Ilm Tarbiya"
+    ],
+    "laneB": [
+      "Ideal Orzular Maktabi",
+      "Ideal Ta’lim-Tarbiya",
+      "Luxway",
+      "Nargiza Coach",
+      "Qalqon Sport",
+      "Quva Ideal School",
+      "Sardor School",
+      "Taklofnomauz",
+      "Toshloq Ideal School",
+      "Vohidjon Huquq",
+      "Woodman Ads",
+      "Yurist Umarxoja",
+      "@asmir_eshiklari",
+      "@gaffarovmuzrobbek",
+      "@shavkat_rieltor"
+    ]
+  },
+  "band": {
+    "eyebrow": "Что я даю команде",
+    "title": "Я оптимизирую на *выручку*, а не на клики.",
+    "items": [
+      {
+        "title": "Эффективность при малом бюджете",
+        "text": "Лиды от $0.33 в конкурентных нишах — каждый тестовый доллар работает на результат."
+      },
+      {
+        "title": "Дисциплина в мультикабинетах",
+        "text": "13 активных кабинетов одновременно с небольшой командой и чётким процессом."
+      },
+      {
+        "title": "Агентское мышление",
+        "text": "Работа в команде агентства научила меня думать как тот, кто платит за рекламу."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Контакты",
+    "title1": "Давайте",
+    "title2": "обсудим.",
+    "text": "Открыт к удалённой работе медиабайером в командах из США и Европы. Могу начать с платного теста на одном из ваших кабинетов.",
+    "items": [
+      {
+        "label": "Email",
+        "value": "abbosbek8225@gmail.com",
+        "href": "mailto:abbosbek8225@gmail.com",
+        "copy": true
+      },
+      {
+        "label": "Telegram",
+        "value": "@mabbosbek1",
+        "href": "https://t.me/mabbosbek1",
+        "copy": true
+      },
+      {
+        "label": "WhatsApp",
+        "value": "+998 90 567 62 73",
+        "href": "https://wa.me/998905676273",
+        "copy": true
+      },
+      {
+        "label": "Где я",
+        "value": "Узбекистан · GMT+5",
+        "href": "",
+        "copy": false
+      }
+    ],
+    "formEnabled": true,
+    "formTitle": "Или оставьте сообщение",
+    "formButton": "Отправить",
+    "formSuccess": "Спасибо! Отвечу в течение дня."
+  },
+  "footer": {
+    "left": "© 2026 Аббосбек Махмудов · Target Expert Group",
+    "right": "ROAS = выручка клиента ÷ рекламный бюджет"
+  },
+  "ui": {
+    "scroll": "Листайте",
+    "step": "Шаг",
+    "copy": "Копировать",
+    "copied": "Скопировано",
+    "formName": "Имя",
+    "formContact": "Email / Telegram",
+    "formMessage": "Сообщение",
+    "toTop": "↑ Наверх",
+    "menu": "Меню"
+  }
+}

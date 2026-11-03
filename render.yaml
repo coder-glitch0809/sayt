@@ -1,0 +1,23 @@
+# Render Blueprint: one free web service runs the Node API and serves the built React app.
+# Secrets marked sync:false are typed in by you in the Render dashboard, never stored in git.
+services:
+  - type: web
+    name: abbosbek-portfolio
+    runtime: node
+    plan: free
+    region: frankfurt
+    buildCommand: npm install --prefix server && npm install --prefix client --include=dev && npm run build --prefix client
+    startCommand: npm start --prefix server
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: MONGODB_URI
+        sync: false
+      # same Atlas cluster as the team site, but its own database
+      - key: MONGODB_DB
+        value: abbosbek
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true

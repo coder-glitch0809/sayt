@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "title": "Abbosbek Maxmudov — Performance Media Buyer",
+    "description": "Meta Ads media buyer: leads under $1, returns up to 25×. 3+ years, 30+ projects, $50K+ in managed ad spend."
+  },
+  "nav": {
+    "initials": "AM",
+    "name": "Abbosbek Maxmudov",
+    "links": [
+      {
+        "label": "Cases",
+        "href": "#cases"
+      },
+      {
+        "label": "Proof",
+        "href": "#proof"
+      },
+      {
+        "label": "Clients",
+        "href": "#brands"
+      },
+      {
+        "label": "Process",
+        "href": "#process"
+      }
+    ],
+    "ctaLabel": "Hire me",
+    "ctaHref": "#contact"
+  },
+  "hero": {
+    "eyebrow": "Performance Media Buyer · Meta Ads",
+    "line1": "Leads under $1.",
+    "line2": "Returns up to 25×.",
+    "lede": "I run Facebook and Instagram campaigns that fill sales pipelines for schools, travel agencies and service brands.",
+    "ledeStrong": "3+ years, 30+ projects, $50K+ in managed ad spend.",
+    "primaryLabel": "See the results →",
+    "primaryHref": "#cases",
+    "secondaryLabel": "Get in touch",
+    "secondaryHref": "#contact",
+    "meta": [
+      "Open to remote roles",
+      "US & Europe",
+      "GMT+5"
+    ],
+    "portrait": "/uploads/portrait.jpg",
+    "portraitAlt": "Portrait of Abbosbek Maxmudov in a grey suit",
+    "readoutTitle": "Lead test 08.10 B",
+    "readoutTag": "Travel Study",
+    "readout": [
+      {
+        "value": "667",
+        "label": "Leads"
+      },
+      {
+        "value": "$0.49",
+        "label": "Per lead"
+      },
+      {
+        "value": "$325.04",
+        "label": "Spent"
+      }
+    ]
+  },
+  "ticker": [
+    "Study abroad",
+    "Private schools",
+    "Pilgrimage tours",
+    "Business coaching",
+    "Education centers",
+    "Local services"
+  ],
+  "stats": {
+    "eyebrow": "Track record",
+    "title": "Numbers from live ad accounts",
+    "items": [
+      {
+        "value": "3+",
+        "label": "years running Meta Ads",
+        "highlight": false
+      },
+      {
+        "value": "30+",
+        "label": "projects delivered",
+        "highlight": false
+      },
+      {
+        "value": "$50K+",
+        "label": "ad spend managed",
+        "highlight": true
+      },
+      {
+        "value": "13",
+        "label": "accounts running right now",
+        "highlight": false
+      },
+      {
+        "value": "15–25×",
+        "label": "ROAS on core clients",
+        "highlight": true
+      },
+      {
+        "value": "$0.40",
+        "label": "lowest average cost per lead",
+        "highlight": false
+      }
+    ]
+  },
+  "cases": {
+    "eyebrow": "Case studies",
+    "title": "Three accounts, one pattern",
+    "subtitle": "Accounts I run with the Target Expert Group team: low cost per lead, fast creative testing, and budget that follows revenue.",
+    "items": [
+      {
+        "category": "Education · Study abroad",
+        "name": "Travel Study",
+        "bullets": [
+          "Instant-form lead campaigns on Facebook and Instagram",
+          "Steady A/B testing of hooks and creatives",
+          "Separate funnels for open days and the sales team",
+          "Best campaign: 667 leads at $0.49 each"
+        ],
+        "roas": "15–25×",
+        "roasLabel": "Return on ad spend",
+        "kv": [
+          {
+            "value": "$2,000",
+            "label": "Monthly budget"
+          },
+          {
+            "value": "$0.60",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "≈3,300",
+            "label": "Leads per month"
+          },
+          {
+            "value": "$30–50K",
+            "label": "Monthly revenue"
+          }
+        ]
+      },
+      {
+        "category": "Travel · Pilgrimage tours",
+        "name": "Tur Umra",
+        "bullets": [
+          "Lead-form campaigns for Umrah trips to Madinah",
+          "Targeting split by departure city: Termez and Samarkand",
+          "Budget moved fast to the winning creatives",
+          "Best campaign: 436 leads at $0.33 each"
+        ],
+        "roas": "20×",
+        "roasLabel": "Return on ad spend",
+        "kv": [
+          {
+            "value": "$500",
+            "label": "Monthly budget"
+          },
+          {
+            "value": "$0.40",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "≈1,250",
+            "label": "Leads per month"
+          },
+          {
+            "value": "$10K",
+            "label": "Monthly revenue"
+          }
+        ]
+      },
+      {
+        "category": "Private school network",
+        "name": "Ideal School",
+        "bullets": [
+          "A separate ad account and budget for each branch",
+          "Local targeting around every campus",
+          "A/B tests of teacher, parent and blogger videos",
+          "Spend scaled through the admissions season"
+        ],
+        "roas": "25×",
+        "roasLabel": "Return on ad spend",
+        "kv": [
+          {
+            "value": "$20,000",
+            "label": "Season budget"
+          },
+          {
+            "value": "$1.50",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "≈13,300",
+            "label": "Leads per season"
+          },
+          {
+            "value": "$500K",
+            "label": "Season revenue"
+          }
+        ]
+      }
+    ]
+  },
+  "chart": {
+    "eyebrow": "Return per dollar",
+    "title": "What $1 of ad spend brought back",
+    "max": 25,
+    "note": "Client-reported revenue divided by ad spend. The striped part of Travel Study shows its monthly range.",
+    "items": [
+      {
+        "name": "Ideal School",
+        "sub": "Private schools",
+        "value": 25,
+        "rangeTo": 0,
+        "display": "$25"
+      },
+      {
+        "name": "Tur Umra",
+        "sub": "Pilgrimage tours",
+        "value": 20,
+        "rangeTo": 0,
+        "display": "$20"
+      },
+      {
+        "name": "Travel Study",
+        "sub": "Study abroad",
+        "value": 15,
+        "rangeTo": 25,
+        "display": "$15–25"
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "Proof",
+    "title": "Top campaigns, straight from Ads Manager",
+    "subtitle": "The best-performing campaigns in five of my accounts:",
+    "subtitleStrong": "3,685 leads for $2,583 of spend, $0.70 per lead on average.",
+    "accounts": [
+      {
+        "name": "Travel Study",
+        "caption": "Ads Manager · Travel Study · lifetime",
+        "image": "/uploads/proof-travel.png",
+        "alt": "Ads Manager table for Travel Study: five lead campaigns, 165 to 667 leads each at $0.49 to $0.68 per lead",
+        "summary": [
+          {
+            "value": "1,709",
+            "label": "Leads"
+          },
+          {
+            "value": "$0.58",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "$998",
+            "label": "Spent"
+          },
+          {
+            "value": "$0.49",
+            "label": "Best CPL"
+          }
+        ]
+      },
+      {
+        "name": "Tur Umra",
+        "caption": "Ads Manager · Tur Umra · lifetime",
+        "image": "/uploads/proof-umra.png",
+        "alt": "Ads Manager table for Tur Umra: four lead campaigns at $0.31 to $0.45 per lead, best 436 leads",
+        "summary": [
+          {
+            "value": "673",
+            "label": "Leads"
+          },
+          {
+            "value": "$0.34",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "$228",
+            "label": "Spent"
+          },
+          {
+            "value": "$0.31",
+            "label": "Best CPL"
+          }
+        ]
+      },
+      {
+        "name": "Qalqon Sport",
+        "caption": "Ads Manager · Qalqon Sport · last 14 days",
+        "image": "/uploads/proof-qalqon.png",
+        "alt": "Ads Manager table for Qalqon Sport: three lead campaigns at $0.50 to $0.75 per lead, best 253 leads",
+        "summary": [
+          {
+            "value": "371",
+            "label": "Leads"
+          },
+          {
+            "value": "$0.59",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "$219",
+            "label": "Spent"
+          },
+          {
+            "value": "$0.50",
+            "label": "Best CPL"
+          }
+        ]
+      },
+      {
+        "name": "Luxway",
+        "caption": "Ads Manager · Luxway · lifetime",
+        "image": "/uploads/proof-luxway.png",
+        "alt": "Ads Manager table for Luxway: three lead campaigns at $0.81 to $1.04 per lead, best 394 leads",
+        "summary": [
+          {
+            "value": "593",
+            "label": "Leads"
+          },
+          {
+            "value": "$0.88",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "$523",
+            "label": "Spent"
+          },
+          {
+            "value": "$0.81",
+            "label": "Best CPL"
+          }
+        ]
+      },
+      {
+        "name": "Ideal School",
+        "caption": "Ads Manager · Ideal School · lifetime",
+        "image": "/uploads/proof-ideal.png",
+        "alt": "Ads Manager table for Ideal School: three lead campaigns at $1.35 to $2.58 per lead, reaching 340,000 people",
+        "summary": [
+          {
+            "value": "339",
+            "label": "Leads"
+          },
+          {
+            "value": "$1.81",
+            "label": "Avg. cost per lead"
+          },
+          {
+            "value": "340K",
+            "label": "People reached"
+          },
+          {
+            "value": "$1.35",
+            "label": "Best CPL"
+          }
+        ]
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "How I run an account",
+    "steps": [
+      {
+        "title": "Research",
+        "text": "Audience, offer and competitor ads before a single dollar is spent."
+      },
+      {
+        "title": "Test",
+        "text": "Several hooks and creatives in A/B tests. Losers are cut within days."
+      },
+      {
+        "title": "Convert",
+        "text": "Instant forms, Instagram DM bots and amoCRM, so no lead goes cold."
+      },
+      {
+        "title": "Scale",
+        "text": "Budget follows the winners, with clear reports on cost and revenue."
+      }
+    ]
+  },
+  "tools": {
+    "eyebrow": "Toolkit",
+    "title": "What I work with every day",
+    "groups": [
+      {
+        "title": "Advertising",
+        "chips": [
+          "Meta Ads Manager",
+          "Facebook",
+          "Instagram",
+          "Business portfolios",
+          "Meta Pixel",
+          "Lead campaigns",
+          "Traffic campaigns",
+          "Geo targeting"
+        ]
+      },
+      {
+        "title": "Funnel & CRM",
+        "chips": [
+          "Instant forms",
+          "ChatPlace DM bots",
+          "amoCRM",
+          "Telegram lead magnets"
+        ]
+      },
+      {
+        "title": "Ways of working",
+        "chips": [
+          "A/B creative testing",
+          "13 accounts at once",
+          "Part of a 3-person team",
+          "English (written)",
+          "Uzbek (native)"
+        ]
+      }
+    ]
+  },
+  "brands": {
+    "eyebrow": "Clients",
+    "count": "31",
+    "title": "brands in our team’s Business Manager",
+    "subtitle": "Private schools, dental clinics, furniture makers, lawyers, retailers, realtors and coaches across Uzbekistan.",
+    "laneA": [
+      "Travel Study",
+      "Tur Umra",
+      "Al Kamal School",
+      "Amor Store",
+      "Beshariq Ideal Odob-Ilm",
+      "Davr Stom",
+      "Dezinfeksiya",
+      "Dlim Mebel",
+      "Doctor Nazokat",
+      "Furqat Ideal School",
+      "Gamefit Pro",
+      "Gazon Xizmati",
+      "Gold Building",
+      "Grand Gold Mebellar",
+      "I and US Dental Clinic",
+      "Ideal Ilm Tarbiya"
+    ],
+    "laneB": [
+      "Ideal Orzular Maktabi",
+      "Ideal Ta’lim-Tarbiya",
+      "Luxway",
+      "Nargiza Coach",
+      "Qalqon Sport",
+      "Quva Ideal School",
+      "Sardor School",
+      "Taklofnomauz",
+      "Toshloq Ideal School",
+      "Vohidjon Huquq",
+      "Woodman Ads",
+      "Yurist Umarxoja",
+      "@asmir_eshiklari",
+      "@gaffarovmuzrobbek",
+      "@shavkat_rieltor"
+    ]
+  },
+  "band": {
+    "eyebrow": "What I bring to your team",
+    "title": "I optimize for *revenue*, not for clicks.",
+    "items": [
+      {
+        "title": "Lean-budget efficiency",
+        "text": "Leads from $0.33 in competitive niches, so every test dollar works harder."
+      },
+      {
+        "title": "Multi-account discipline",
+        "text": "13 live accounts at once, run with a small team and a steady process."
+      },
+      {
+        "title": "Agency mindset",
+        "text": "Working inside an agency team taught me to think like the person who pays for the ads."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title1": "Let’s",
+    "title2": "talk.",
+    "text": "Open to remote media buyer roles with US and European teams. Happy to start with a paid test on one of your accounts.",
+    "items": [
+      {
+        "label": "Email",
+        "value": "abbosbek8225@gmail.com",
+        "href": "mailto:abbosbek8225@gmail.com",
+        "copy": true
+      },
+      {
+        "label": "Telegram",
+        "value": "@mabbosbek1",
+        "href": "https://t.me/mabbosbek1",
+        "copy": true
+      },
+      {
+        "label": "WhatsApp",
+        "value": "+998 90 567 62 73",
+        "href": "https://wa.me/998905676273",
+        "copy": true
+      },
+      {
+        "label": "Based in",
+        "value": "Uzbekistan · GMT+5",
+        "href": "",
+        "copy": false
+      }
+    ],
+    "formEnabled": true,
+    "formTitle": "Or leave a message",
+    "formButton": "Send message",
+    "formSuccess": "Thanks! I'll get back to you within a day."
+  },
+  "footer": {
+    "left": "© 2026 Abbosbek Maxmudov · Target Expert Group",
+    "right": "ROAS = client-reported revenue ÷ ad spend"
+  },
+  "ui": {
+    "scroll": "Scroll",
+    "step": "Step",
+    "copy": "Copy",
+    "copied": "Copied",
+    "formName": "Name",
+    "formContact": "Email / Telegram",
+    "formMessage": "Message",
+    "toTop": "↑ Top",
+    "menu": "Menu"
+  }
+}
